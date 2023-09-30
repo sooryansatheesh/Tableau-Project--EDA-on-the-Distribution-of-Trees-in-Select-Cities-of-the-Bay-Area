@@ -1,6 +1,5 @@
 # Tableau Project: EDA on the Distribution of Trees in Select Cities of the Bay Area
- Tableau Project: EDA on the Distribution of Trees in Select Cities of the Bay Area
-# Tableau Project: EDA on the Distribution of Trees in Select Cities of the Bay Area
+
 # INFO 247 Spring 2023
 
 **Author:** Soorya Narayan Satheesh
