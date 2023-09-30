@@ -96,6 +96,7 @@ Key transformations performed:
 
 ### 3.2 Exploring Hypothesis 2: Diversity in Tree Types<a name="exploring-hypothesis-2-is-there-diversity-in-the-tree-types-grown-in-the-bay-area"></a>
 - Explored the distribution of tree types (Broadleaved Deciduous, Broadleaved Evergreen, Conifer Evergreen, Palm Evergreen, and Others) in different cities.
+  
 ![Image_003](https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/assets/86243234/bc71bed4-2187-4047-8aaa-7c8b8b5b18de)
 ![Image_003](https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/assets/86243234/ed284c01-b884-430c-b040-b4812b72abbb)
 
@@ -103,12 +104,14 @@ Key transformations performed:
 
 ### 3.3 Exploring Hypothesis 3: Variation in Average Age of Trees<a name="exploring-hypothesis-3-is-there-variation-in-the-average-age-of-the-trees-in-the-bay-area"></a>
 - Analyzed the distribution of the diameter at breast height (DBH) of trees by city and type.
+  
 ![Image_004](https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/assets/86243234/5f6d468c-e101-4a1a-844d-cbd2040e41de)
 ![Image_004](https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/assets/86243234/02c5ce39-5ecf-4417-980b-faa6973ec197)
 
 
 ### 3.4 Exploring Hypothesis 4: Relation Between Tree Number and Species Diversity<a name="exploring-hypothesis-4-is-there-any-relation-between-the-number-of-trees-in-a-street-and-the-diversity-of-species-therea"></a>
 - Analyzed the street wise number of trees across the seven cities.
+  
 ![Image_006](https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/assets/86243234/cb81eb70-8bff-40d6-b3fb-8f91c47ee4fd)
 ![Image_006](https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/assets/86243234/483d3661-adf7-4b5c-921e-66224f331f0a)
 
