@@ -89,7 +89,11 @@ Key transformations performed:
 ### 3.1 Exploring Hypothesis 1: Uniform Distribution of Tree Species<a name="exploring-hypothesis-1-does-the-different-cities-of-the-bay-area-have-a-uniform-distribution-of-tree-species"></a>
 - Analyzed the number of trees and tree species in different cities.
 - Investigated the relationship between species diversity and city population and population density.
-![Figure 1-Tree numbers analysis](../Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/935844828/Image_001.gif)
+
+![Image_002](https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/assets/86243234/01aeed5c-1436-4f04-a520-721e10901f71)
+![Image_002](https://github.com/sooryansatheesh/Tableau-Project--EDA-on-the-Distribution-of-Trees-in-Select-Cities-of-the-Bay-Area/assets/86243234/1a2523e5-383e-44bd-ab27-776075cd404a)
+
+
 
 ### 3.2 Exploring Hypothesis 2: Diversity in Tree Types<a name="exploring-hypothesis-2-is-there-diversity-in-the-tree-types-grown-in-the-bay-area"></a>
 - Explored the distribution of tree types (Broadleaved Deciduous, Broadleaved Evergreen, Conifer Evergreen, Palm Evergreen, and Others) in different cities.
